@@ -1,3 +1,8 @@
+-=(CrystalCastles_Senhor notes)=-
+
+Tested: Working Video 720p, 1080p & Sound.
+
+___
 # [Arcade: Crystal Castles](https://en.wikipedia.org/wiki/Crystal_Castles_(video_game)) for [MiSTer FPGA](https://mister-devel.github.io/MkDocs_MiSTer/)
 An FPGA implementation of the __Crystal Castles__ arcade hardware by __Atari__ for the MiSTer platform.
 
